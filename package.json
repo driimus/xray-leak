@@ -1,0 +1,20 @@
+{
+  "name": "xray-leak",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-lambda-fastify": "^1.7.1",
+    "fastify": "^3.24.1",
+    "fastify-xray": "^1.0.0"
+  },
+  "devDependencies": {
+    "jest": "^27.4.3"
+  }
+}
